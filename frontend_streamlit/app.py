@@ -7,7 +7,7 @@ from reportlab.pdfgen import canvas
 BACKEND = "http://127.0.0.1:8000"
 
 st.set_page_config(page_title="NoteGen AI", layout="wide")
-st.title("🧠 NoteGen AI (Frontend)")
+st.title("🧠 NoteGen AI ")
 
 
 # ---------------- PDF Helper ---------------- #
